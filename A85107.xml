@@ -1,0 +1,183 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Fanatique queries, propos'd to the present assertors of the good old cause.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1660</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A85107</idno>
+            <idno type="STC">Wing F399</idno>
+            <idno type="STC">Thomason E1016_10</idno>
+            <idno type="STC">ESTC R202063</idno>
+            <idno type="EEBO-CITATION">99862480</idno>
+            <idno type="PROQUEST">99862480</idno>
+            <idno type="VID">114640</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A85107)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 114640)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ;  150:E1016[10])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Fanatique queries, propos'd to the present assertors of the good old cause.</title>
+               </titleStmt>
+               <extent>[2], 5, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for Praise-God-Barebones, the Rumps leather-seller,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>[1660]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Publication date from Wing.</note>
+                  <note>Annotation on Thomason copy: "March. 1. 1659".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Army --  Early works to 1800.</term>
+               <term>Presbyterianism --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Commonwealth and Protectorate, 1649-1660 --  Early works to 1800.</term>
+               <term>Great Britain --  Politics and government --  1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-03</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-03</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:114640:1"/>
+            <pb facs="tcp:114640:1" rendition="simple:additions"/>
+            <p>FANATIQUE QUERIES, Propos'd to the preſent ASSERTORS OF THE <hi>GOOD OLD CA<g ref="char:V">Ʋ</g>SE.</hi>
+            </p>
+            <figure>
+               <figDesc>printer's or publisher's device</figDesc>
+            </figure>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Praiſe-God-Barebones,</hi> the <hi>Rumps</hi> Leather-ſeller. <add>March .2. 1659</add> 
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="list_of_queries">
+            <pb facs="tcp:114640:2"/>
+            <pb n="1" facs="tcp:114640:2"/>
+            <head>FANATIQUE QUERIES, Propoſed to the preſent Aſſertors of the <hi>GOOD OLD CA<g ref="char:V">Ʋ</g>SE.</hi>
+            </head>
+            <list>
+               <item>Query I.<lb/> WHether it be not unnatural for the Rump to Re-aſſume her old Excrements, and whe<g ref="char:EOLhyphen"/>ther a <hi>Scotch</hi> Pill upon it may not cauſe an Apoplexie?</item>
+               <item>II.<lb/> Whether <hi>Haſlerig,</hi> or the <hi>Devil,</hi> more inveterately hate <hi>Charles Stuart,</hi> ſince the one hath got a great part of his Lands, and the other is in poſſeſſion of many of his Rebellious Subjects?</item>
+               <item>III.<lb/> Whether it be any wonder <hi>Prin</hi> ſtickles ſo boldly for the Family of the <hi>Stuarts,</hi> ſince he may do that for his Ears, which another dare not for his Life.</item>
+               <item>IV.<lb/> Whether it be not a Paradox in Providence, that the pulling down the City-Gates, ſhould be an Intro<g ref="char:EOLhyphen"/>duction to the Triumph of Bells and Bonefires? and,
+<pb n="2" facs="tcp:114640:3"/>to ſatisfie the ſcrupuloſity of ſome Deſperado's, whe<g ref="char:EOLhyphen"/>ther the <hi>Bulls-head</hi> in <hi>Cheapſide</hi> had not the greateſt cauſe to Rejoyce?</item>
+               <item>V.<lb/> Whether Col. <hi>Berry,</hi> and Col. <hi>Hewſon</hi> have not betaken themſelves, the firſt to the crying of <hi>Smal-coal,</hi> and the ſecond of <hi>Boots</hi> and <hi>Shooes,</hi> ſince they va<g ref="char:EOLhyphen"/>niſht inſenſibly, with that <hi>Ignis fatuus,</hi> the <hi>Committee of Safety,</hi> and have diſ-appeared ever ſince.</item>
+               <item>VI.<lb/> Whether Alderman <hi>Tichbourns</hi> Beard be not in danger of being Singed at the diſcharging of the Guns in the <hi>Tower?</hi>
+               </item>
+               <item>VII.<lb/> Whether <hi>Ireton</hi> have not taken up his Lodging in the <hi>Tower,</hi> for fear of being ſurpriſed by the City?</item>
+               <item>VIII.<lb/> Whether the <hi>Quakers</hi> utter not the language of the Beaſt, ſince they ſpeak at the <hi>Bull</hi> and <hi>Mouth?</hi>
+               </item>
+               <item>IX.<lb/> Whether <hi>Tom Scot</hi> be not fitter for a Secretary of the <hi>Stews,</hi> than a Secretary of <hi>State?</hi> and whether it would not better ſute with his <hi>Genius,</hi> to be <hi>Cuſtos meretricum,</hi> than <hi>Cuſtos Rotulorum?</hi> and whether <hi>Leadſom</hi> his man, be not fitter to ſerve him as a <hi>Pimp</hi> or <hi>Trapan,</hi> than <hi>Clark, Promooter,</hi> or <hi>In<g ref="char:EOLhyphen"/>former?</hi>
+               </item>
+               <item>X.<lb/> Whether <hi>Praiſe-God-Barebones</hi> were not a Nick<g ref="char:EOLhyphen"/>name,
+<pb n="3" facs="tcp:114640:3"/>ſince his <hi>Petition</hi> is neither to the <hi>Praiſe</hi> of <hi>God,</hi> nor Honour of the <hi>King?</hi>
+               </item>
+               <item>XI.<lb/> Whether <hi>Lamberts</hi> Switches be not all broken, ſince his Deſignes come to nothing? and whether his <hi>Lady</hi> be not the better Souldier by the vertue of <hi>Nolls</hi> Breeches?</item>
+               <item>XII.<lb/> Whether the <hi>Anabaptiſts</hi> did not intend to Carbo<g ref="char:EOLhyphen"/>nado the Rump, ſince they provided ſuch a ſtock of long <hi>Knives?</hi> or whether their intentions were to rip up the <hi>Scarlet Whore,</hi> and ſlaughter the <hi>Beaſt?</hi>
+               </item>
+               <item>XIII.<lb/> Whether the King of <hi>Sweden</hi> had not better have given <hi>Montelion</hi> a Gold Chain for telling truth, than <hi>Will. Lilly,</hi> for flattering him to his own Deſtruction?</item>
+               <item>XIV.<lb/> Whether Sir <hi>George Booth</hi> were more Fool or Knave? and whether Major General <hi>Overton</hi> may not make <hi>Hull</hi> a Bedlam?</item>
+               <item>XV.<lb/> Whether the <hi>Anabaptiſts,</hi> or <hi>Fift Monarchy-men</hi> be the better Common-wealths men, ſince the ſecond are reſolv'd againſt all governments, and the firſt are con<g ref="char:EOLhyphen"/>tent with none?</item>
+               <item>XVI.<lb/> Whether a hundred of Cheeſe had not been a better price for <hi>Jeremy Ives</hi> his Horſe then forty pound at the demoliſhing of St. <hi>Pulchers</hi> Church?</item>
+               <pb n="4" facs="tcp:114640:4"/>
+               <item> XVII.<lb/> Whether <hi>Charles Needham</hi> did not rightly chriſten his Pamphlet the <hi>Politick Mercury,</hi> ſince he hath a dextrous faculty of creeping into the breech of every riſing Power?</item>
+               <item>XVIII.<lb/> Whether Sir <hi>Henry Vain,</hi> ought not to be tran<g ref="char:EOLhyphen"/>ſpos'd <hi>Vaine</hi> Sir <hi>Henry;</hi> and whether he be ſo wiſe a man as the world takes him to be, ſince he was ſhit out of the Rump?</item>
+               <item>XIX.<lb/> Whether <hi>Henry Hills</hi> deſerve not to be the States Printer, ſince, to flatter the times, and juſtify the Sale of Kings and Biſhops Lands, he corrupted that text in his Bible, <hi>Magiſtrates—ſent for the puniſh<g ref="char:EOLhyphen"/>ment of evil doers, and for the Land of them that do well,</hi> to <hi>the land of them that do well;</hi> and whe<g ref="char:EOLhyphen"/>ther this be not a ſufficient expiation for the crime of Polygamy?</item>
+               <item>XX.<lb/> Whether ever any <hi>Antimonarchical</hi> bawling <hi>Puritan</hi> continued conſtant to his principles; and whether it is not now become evident that their deſire of in<g ref="char:EOLhyphen"/>novation in Religion, and chang of Government proceeded more from a vertigo in their own heads than any fault in the Regiment of Church or State?</item>
+               <item>XXI.<lb/> Whether the Saints of our times do not in their practice pervert the order of that text of St. <hi>Paul, Godlineſſe is great gain,</hi> into <hi>gain is great God<g ref="char:EOLhyphen"/>lineſſe?</hi>
+               </item>
+               <pb n="5" facs="tcp:114640:4"/>
+               <item> XXII.<lb/> Whether all theſe Queries deſerve not a <hi>Com<g ref="char:EOLhyphen"/>mittee of Inſpection,</hi> and <hi>Examination,</hi> to reſolve them; and ſince we may Query long enough, before we can find any good, Whether it be not time to make an</item>
+            </list>
+            <trailer>END?</trailer>
+         </div>
+         <div type="postscript">
+            <pb facs="tcp:114640:5"/>
+            <head>POST-SCRIPT.</head>
+            <opener>
+               <salute>Gentlemen,</salute>
+            </opener>
+            <p>THe times are indeed ſo tedious in their circu<g ref="char:EOLhyphen"/>lations and frenetique tranſactions, multiply<g ref="char:EOLhyphen"/>ing the miſeries of the Nation, as the <hi>Quakers</hi> do vain circumlocutions, (ſtill ſeeming as far from the pretended compoſure of our differences, and reſtoration of our liberty, as when they began) that a little to laugh at our own ſorrow, ſeems the only moral means to renew our patience, and re<g ref="char:EOLhyphen"/>compoſe our thoughts for more ſolid conſiderati<g ref="char:EOLhyphen"/>ons of the remedy of our diſeaſe. In this, if we trouble the ſerious, the ingenuous will pardon it, and we promiſe Loyal Hearts, as a recompenſe, ſome <hi>Orthodox State-Queries,</hi> more worthy the peruſal of the reſerved.</p>
+            <closer>
+               <salute>Valete.</salute>
+            </closer>
+            <pb facs="tcp:114640:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
